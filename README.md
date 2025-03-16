@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Shiny app allows users to explore and filter vocabulary lists commonly found in standardized tests like SAT, GRE, TOEFL, GMAT, CAT, and IELTS. The vocabulary data includes words, meanings, and example sentences, extracted from a PDF file containing 1000 common SAT words. The app enables users to search and filter words by their meanings and example sentences for more efficient studying.
+This [Shiny app](https://hbaon.shinyapps.io/test-vocab/) allows users to explore and filter vocabulary lists commonly found in standardized tests like SAT, GRE, TOEFL, GMAT, CAT, and IELTS. The vocabulary data includes words, meanings, and example sentences, extracted from a PDF file containing 1000 common SAT words. The app enables users to search and filter words by their meanings and example sentences for more efficient studying.
 
 ## Features
 
